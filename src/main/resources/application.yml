@@ -1,0 +1,5 @@
+spring:
+  data:
+    mongodb:
+      uri : mongodb+srv://admin:admin1234@javatechie.oj0p4.mongodb.net/?retryWrites=true&w=majority&appName=javatechie
+      database : Task
